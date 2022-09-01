@@ -1,0 +1,93 @@
+body{
+    background-image: url("netflix.jpg");
+    font-family: 'Fjalla One', sans-serif;
+    opacity: 1.90;
+}
+.container{
+    width: 400px;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0.94);
+    opacity: 2,9;
+    position: relative;
+    margin: 0 auto;
+    top: 10px;
+    opacity: 0.90;
+    border-radius: 5px;
+    
+}
+.logo{
+    width: 200px;
+    
+}
+#sign-in{
+    color: #ffffff;
+    margin-bottom: 100px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    font-size: 32px;
+    
+    font-weight: bold;
+
+    
+}
+input{
+    background: #333;
+    border: 0;
+    border-radius: 4px;
+    color: #fff;
+    width: 300px;
+    height: 50px;
+    line-height: 20px;
+    padding: 6px 20px 0;
+    margin-left: 50px;
+    box-sizing: border-box;
+}
+button{
+    width: 300px;
+    height: 50px;
+    background-color: #e50914;
+    color: #ffffff;
+    position: relative;
+    left: 50px;
+    border-radius: 10px;
+    top: 20px;
+}
+button:hover{
+background-color: rgba(255, 20, 20, 0.596);
+color: #ffffff;
+transition: 1s;
+cursor: pointer;
+}
+section input{
+    width: 15px;
+    display: inline-block;
+    position: relative;
+    top: 19px;
+    
+}
+.remember-me{
+    color: rgb(98, 97, 97);
+}
+.help a{
+    color: rgb(98, 97, 97);
+    margin-left: 60px;
+    text-decoration: none;
+}
+.register{
+    color: rgb(98, 97, 97);
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.register a{
+    color: #ffffff;;
+    text-decoration: none;
+    font-weight: 300;
+}
+.register a:hover{
+    color: #e50914;
+}
+.help a:hover{
+color: #ffffff;
+font-weight: 500;
+}
