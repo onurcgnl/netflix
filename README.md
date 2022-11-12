@@ -1,2 +1,2 @@
 # netflix
-https://onurcgnl.github.io/netflix/
+https://onurcgnl.github.io/netflix-clone/
